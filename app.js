@@ -23,5 +23,6 @@ function determineEOQ(
 EOQ = determineEOQ(annualUsageRate, orderingCost, holdingCostPercentage, costPerUnit);
 
 // render out to console
-console.log(EOQ);
+console.log("Unrounded: " + EOQ);
+console.log("Rounded: " + Math.round(EOQ))
 
