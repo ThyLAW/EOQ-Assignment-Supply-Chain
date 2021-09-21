@@ -6,7 +6,7 @@ Example formula for EOQ for Supply Chian Class
 Clone your repo to your desktop. Inside, modify the values to what you would like them to be. 
 
 Defaults:
-![default Values](capture.PNG)
+![default Values](Capture.PNG)
 
 With Node:
 
