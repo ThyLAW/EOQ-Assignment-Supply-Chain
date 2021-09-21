@@ -1,5 +1,5 @@
 # EOQ-Assignment-Supply-Chain
-Example formula for EOQ for Supply Chian Class
+Example formula for EOQ for Supply Chain Class
 
 ## To Run
 
